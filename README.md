@@ -1,1 +1,0 @@
-# UAS-Checklist-Kebersihan-Toilet
