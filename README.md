@@ -74,7 +74,7 @@ Sistem Checklist Toilet ini adalah sebuah solusi untuk me-manage kebersihan toil
 
 
 ## URL Web
-https://k8toiletchecklistuas.000webhostapp.com/index.php
+https://k8toiletchecklistuas.000webhostapp.com
 
 
 
