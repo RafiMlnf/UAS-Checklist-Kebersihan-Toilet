@@ -70,13 +70,13 @@ a. Daftar Toilet
 
 Sistem Checklist Toilet ini adalah sebuah solusi untuk me-manage kebersihan toilet. Dengan fitur login, manajemen toilet, checklist kebersihan, dan pelaporan, sistem ini memberikan pengguna kemudahan dalam mengelola, memonitor, dan melaporkan kondisi kebersihan toilet secara efisien.
 
-## Link Youtube penjelasan  
+## <img src="img/youtube.png" width=20> Link Youtube penjelasan  
 https://youtu.be/gFzq38aTG-k
 
-## Link Laporan Proyek
+## <img src="img/google-drive.png" width=20> Link Laporan Proyek
 https://drive.google.com/file/d/11iFd2PZtbjJp1MGF3SsYYPsWyNcY4dDA/view?usp=sharing
 
-## URL Web
+## <img src="img/web.png" width=20> URL Web
 https://k8toiletchecklistuas.000webhostapp.com
 
 
