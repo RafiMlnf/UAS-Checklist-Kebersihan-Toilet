@@ -76,7 +76,7 @@ https://youtu.be/gFzq38aTG-k
 ## <img src="img/google-drive.png" width=20> Link Laporan Proyek
 https://drive.google.com/file/d/11iFd2PZtbjJp1MGF3SsYYPsWyNcY4dDA/view?usp=sharing
 
-## <img src="img/web.png" width=20> URL Web
+## <img src="img/www.png" width=20> URL Web
 https://k8toiletchecklistuas.000webhostapp.com
 
 
