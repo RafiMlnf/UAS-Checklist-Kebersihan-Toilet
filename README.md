@@ -73,6 +73,9 @@ Sistem Checklist Toilet ini adalah sebuah solusi untuk me-manage kebersihan toil
 ## Link Youtube penjelasan  
 https://youtu.be/gFzq38aTG-k
 
+## Link Laporan Proyek
+https://drive.google.com/file/d/11iFd2PZtbjJp1MGF3SsYYPsWyNcY4dDA/view?usp=sharing
+
 ## URL Web
 https://k8toiletchecklistuas.000webhostapp.com
 
