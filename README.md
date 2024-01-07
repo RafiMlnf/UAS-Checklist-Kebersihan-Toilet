@@ -18,20 +18,21 @@ Anggota Kelompok
 Sistem Checklist Kebersihan Toilet adalah aplikasi web yang dirancang untuk membantu pengelola gedung atau fasilitas memonitor dan mengelola kebersihan toilet. Dengan menggunakan PHP sebagai bahasa pemrograman utama dan database MySQL untuk menyimpan data, sistem ini memberikan cara yang efisien untuk melakukan penilaian dan pelaporan kebersihan toilet.
 
 ## Fitur Utama
-1. Login/Daftar:
+1. `Login/Daftar:`
 Sistem ini menyediakan fungsi login dan pendaftaran dengan perbedaan peran antara admin dan petugas kebersihan. Admin dan petugas memiliki akses yang berbeda sesuai dengan tugas dan tanggung jawab masing-masing.
 
-2. Dashboard:
+2. `Dashboard:`
 Dashboard utama menyajikan ringkasan status kebersihan toilet. Informasi yang ditampilkan mencakup parameter-parameter kunci untuk memberikan gambaran cepat mengenai kondisi kebersihan secara umum.
 
-3. Manajemen Toilet:
+3. `Manajemen Toilet:`
 Fasilitas manajemen toilet memungkinkan pengguna untuk menambahkan, mengedit, dan menghapus informasi toilet. Setiap toilet dilengkapi dengan daftar item kebersihan yang dapat dicentang, memberikan fleksibilitas dalam mengelola persyaratan kebersihan.
 
-4. Checklist Kebersihan:
+4. `Checklist Kebersihan:`
 Petugas kebersihan dapat melakukan checklist pada setiap toilet yang menjadi tanggung jawabnya. Checklist mencakup item-item seperti kebersihan lantai, dinding, kloset, wastafel, kaca, bau ruangan, dan stok sabun. Sistem mencatat tanggal dan waktu ketika checklist dilakukan, memberikan transparansi terhadap aktivitas kebersihan.
 
-5. Pelaporan:
+5. `Pelaporan:`
 Fasilitas pelaporan memungkinkan pengguna untuk menyortir laporan berdasarkan tanggal atau kondisi rusak/kotor. Laporan dapat diunduh dalam format PDF, memberikan kemudahan akses dan dokumentasi untuk pemantauan dan evaluasi kebersihan toilet.
+
 ## Implementasi Tambahan
 ### 1. Mengelola Data Toilet (CRUD)
 #### a. Daftar Toilet
@@ -47,8 +48,8 @@ Fasilitas pelaporan memungkinkan pengguna untuk menyortir laporan berdasarkan ta
 - Memungkinkan pengguna untuk menghapus toilet dari database.
 
 ### 2. Transaksi Checklist
-#### a. Daftar Toilet
-- Halaman ini menampilkan daftar toilet yang tersedia.
+a. Daftar Toilet  
+- Halaman ini menampilkan daftar toilet yang tersedia.  
 - Memberikan opsi untuk memilih toilet sebelum melakukan checklist.
 #### b. Checklist berdasarkan Tanggal dan Pengguna
 - Form checklist yang memungkinkan pengguna memilih toilet, memasukkan tanggal, dan memilih item kebersihan.
