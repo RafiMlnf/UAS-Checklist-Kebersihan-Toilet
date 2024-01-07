@@ -11,7 +11,7 @@ Anggota Kelompok
 
 312210382 - Rafi Maulana Firdaus 
 312210405 - Rizjky Dito Ridwansyah 
-312210279 - Ricky Alfian
+312210279 - Ricky Alfian Saputra
 ```
 ----------------
 
